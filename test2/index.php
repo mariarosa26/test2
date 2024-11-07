@@ -14,17 +14,17 @@
 
 <div>
 	<label>Firstname:</label>
-	<input type="text" name="Firstname" class="form control">
+	<input type="text" name="Firstname" class="form-control">
 </div>
 
 <div>
 	<label>Middlename:</label>
-	<input type="text" name="Middlename" class="form control">
+	<input type="text" name="Middlename" class="form-control">
 </div> 
 
 <div>
 	<label>Lastname:</label>
-	<input type="text" name="Lastname" class="form control">
+	<input type="text" name="Lastname" class="form-control">
 </div> 
 
 </html>
